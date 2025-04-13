@@ -2,7 +2,7 @@ Project Overview
 The Farmers Market Place is a comprehensive e-commerce platform designed to connect farmers directly with consumers. This project aims to streamline the agricultural supply chain by providing a user-friendly interface for buying and selling farm-fresh produce and other agricultural goods.
 
 Repository
-The main repository for this project is located at: https://github.com/SID9927/CDAC_PROJECT.git
+The main repository for this project is located at: https://github.com/BrijeshShinde7/Online_Vegetable_-_Fruits_Store
 
 Project Structure
 The repository contains multiple components of the Farmers Market Place project:
