@@ -27,7 +27,7 @@ Farmer's Marketplace is a comprehensive e-commerce platform connecting farmers d
 
 1. Clone the repository
 
-git clone https://github.com/SID9927/FarmerMarketPlace.git
+git clone (https://github.com/BrijeshShinde7/Online_Vegetable_-_Fruits_Store)
 
 2. Navigate to the project directory
    
